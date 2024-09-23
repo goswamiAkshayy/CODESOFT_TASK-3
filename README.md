@@ -47,3 +47,7 @@
 
 # PROJECT COMPLETING VIDEO
 https://github.com/user-attachments/assets/a963a418-a785-40de-a30e-d501c774faed
+
+<br/>
+
+  This internship has increased my interest in pursuing a career in Java Programming. I truly appreciate all of the time and effort that you and other staff spent training me. This has been a valuable learning experience. Thank you again for all your support, and for all of the opportunities you have given me.
